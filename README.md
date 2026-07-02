@@ -1,4 +1,4 @@
-# ?? Email Simulator (Python)
+# Email Simulator (Python)
 
 A console-based Email Simulator built with **Python** using **Object-Oriented Programming (OOP)** principles. The project simulates basic email functionality, including sending, receiving, reading, and deleting emails.
 
