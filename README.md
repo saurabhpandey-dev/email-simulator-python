@@ -6,7 +6,7 @@ A console-based Email Simulator built with **Python** using **Object-Oriented Pr
 
 ---
 
-## ?? Features
+## Features
 
 - Send emails between users
 - Receive emails in the inbox
@@ -18,7 +18,7 @@ A console-based Email Simulator built with **Python** using **Object-Oriented Pr
 
 ---
 
-## ??? Technologies Used
+## Technologies Used
 
 - Python 3
 - Object-Oriented Programming (OOP)
@@ -26,7 +26,7 @@ A console-based Email Simulator built with **Python** using **Object-Oriented Pr
 
 ---
 
-## ?? Project Structure
+## Project Structure
 
 ```
 email-simulator-python/
@@ -37,7 +37,7 @@ email-simulator-python/
 
 ---
 
-## ?? Getting Started
+## Getting Started
 
 Clone the repository:
 
@@ -59,7 +59,7 @@ python Email_simulator.py
 
 ---
 
-## ?? Concepts Practiced
+## Concepts Practiced
 
 - Classes and Objects
 - Constructors
@@ -72,7 +72,7 @@ python Email_simulator.py
 
 ---
 
-## ?? Future Improvements
+## Future Improvements
 
 - User Login
 - Email Address Support
@@ -84,7 +84,7 @@ python Email_simulator.py
 
 ---
 
-## ?? Acknowledgements
+## Acknowledgements
 
 This project was completed as part of the **freeCodeCamp Python Workshop**.
 
@@ -94,7 +94,7 @@ https://www.freecodecamp.org/
 
 ---
 
-## ????? Author
+## Author ?
 
 **Saurabh Pandey**
 
